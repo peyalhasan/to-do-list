@@ -8,3 +8,5 @@ const footballer = (obj) => {
     return i; 
   }
 }
+
+console.log(footballer(Cristiano))
